@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+python-dotenv
+praw
+snscrape
+transformers
+torch
+tweepy
+numpy
